@@ -1,0 +1,23 @@
+name: quickdraw
+favicon: null
+layout_spectrum: 0.42487901309505105
+typography_spectrum: 0.13337135850451887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5510246225167066
+  lightness: 0.7271361944731325
+  saturation: 0.4708243324421346
+  rhythmicContrast: 0.5050815502181649
+purpose: []
